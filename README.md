@@ -3,7 +3,7 @@
 
 ***
 
-This project is under GPL V3 license (see the LICENSE file for mor informations)
+This project is under GPL V3 license (see the LICENSE file for more informations)
 
 ***
 
